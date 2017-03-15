@@ -1,8 +1,6 @@
 body {
 	background: url("../images/80s grid art.jpg");
-	/*background-size: 1280px 800px;*/
-	height: 100%;
-	width: 100%;
+	background-size: 100%;
 	background-repeat: no-repeat;
 }
 
